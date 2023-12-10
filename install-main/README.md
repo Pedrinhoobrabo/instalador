@@ -1,6 +1,4 @@
-<h1 align="center">Whaticket Baileys |Canal Vem Fazer</h1>
 
-<div align="center">
 
 [![License](https://img.shields.io/badge/license-GPL--3.0-orange)](./LICENSE)
 [![Nubank](https://img.shields.io/badge/donate-nubank-purple)](https://nubank.com.br/pagar/1j4x3i/qA4jW8n5WR)
@@ -15,7 +13,7 @@
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
 
 ```bash
-sudo apt install -y git && git clone https://github.com/vemfazer/install install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/Pedrinhoobrabo/instalador/ install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
 ```
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
